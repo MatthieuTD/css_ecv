@@ -1,6 +1,28 @@
 img{
   float: left;
+    clear:both;
 }
 .img2{
   float: left;
+  margin-right: 5px;
+}
+.center{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.block{
+  border: solid black 2px;
+  margin-bottom: 200px;
+  width: 100%;
+height: 600px;
+  padding: 5px;
+}
+.comment{
+  clear: both;
+}
+a{
+  margin-left: 1800px;
+top: 80px;
 }
