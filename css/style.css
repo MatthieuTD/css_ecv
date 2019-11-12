@@ -15,14 +15,18 @@ img{
 .block{
   border: solid black 2px;
   margin-bottom: 200px;
-  width: 100%;
-height: 600px;
+  width: 99%;
+height: 310px;
   padding: 5px;
 }
 .comment{
   clear: both;
 }
 a{
-  margin-left: 1800px;
-top: 80px;
+  margin-left: 1600px;
+float: right;
+
+border: solid red 1px;
+background: red;
+padding: 8px;
 }
