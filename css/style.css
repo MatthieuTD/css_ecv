@@ -1,32 +1,14 @@
-img{
-  float: left;
-    clear:both;
-}
-.img2{
-  float: left;
-  margin-right: 5px;
-}
-.center{
-  display: flex;
-  justify-content: space-around;
-}
+@import "vendor/reset.css";
+@import "typo.css";
+@import "layout.css";
+@import "main.css";
 
-
-.block{
-  border: solid black 2px;
-  margin-bottom: 200px;
-  width: 99%;
-height: 310px;
-  padding: 5px;
+h1{
+color: blue;
 }
-.comment{
-  clear: both;
-}
-a{
-  margin-left: 1600px;
-float: right;
-
-border: solid red 1px;
-background: red;
-padding: 8px;
+.hero{
+height: 10px;
+width: 300px;
+background-color: white;
+color: white;
 }
